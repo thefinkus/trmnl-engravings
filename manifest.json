@@ -248,7 +248,7 @@
   "stem": "s396266",
   "fit": {
    "full": "16lv",
-   "fill": "6lv",
+   "fill": "4lv",
    "det": "8lv"
   },
   "zoom": 2.1,
@@ -443,7 +443,7 @@
   "stem": "s362671",
   "fit": {
    "full": "4lv",
-   "fill": "4lv",
+   "fill": "4lv+s1500",
    "det": "4lv"
   },
   "zoom": 2.6,
@@ -533,7 +533,7 @@
   "stem": "s360365",
   "fit": {
    "full": "12lv",
-   "fill": "6lv",
+   "fill": "4lv",
    "det": "6lv"
   },
   "zoom": 2.6,
@@ -743,7 +743,7 @@
   "stem": "s348799",
   "fit": {
    "full": "8lv",
-   "fill": "6lv",
+   "fill": "4lv",
    "det": "4lv"
   },
   "zoom": 2.6,
@@ -1253,7 +1253,7 @@
   "stem": "s383057",
   "fit": {
    "full": "6lv",
-   "fill": "6lv",
+   "fill": "4lv",
    "det": "6lv"
   },
   "zoom": 2.6,
