@@ -203,7 +203,7 @@
   "stem": "s339008",
   "fit": {
    "full": "16lv",
-   "fill": "8lv",
+   "fill": "6lv",
    "det": "6lv"
   },
   "zoom": 2.6,
@@ -428,7 +428,7 @@
   "stem": "s423457",
   "fit": {
    "full": "12lv",
-   "fill": "10lv",
+   "fill": "8lv",
    "det": "16lv"
   },
   "zoom": 2.3,
@@ -668,7 +668,7 @@
   "stem": "s363075",
   "fit": {
    "full": "6lv",
-   "fill": "6lv",
+   "fill": "5lv",
    "det": "6lv"
   },
   "zoom": 2.6,
@@ -683,7 +683,7 @@
   "stem": "s363420",
   "fit": {
    "full": "6lv",
-   "fill": "6lv",
+   "fill": "4lv",
    "det": "6lv"
   },
   "zoom": 2.6,
@@ -848,7 +848,7 @@
   "stem": "s365057",
   "fit": {
    "full": "16lv",
-   "fill": "16lv",
+   "fill": "10lv",
    "det": "8lv"
   },
   "zoom": 2.6,
@@ -1208,7 +1208,7 @@
   "stem": "s350965",
   "fit": {
    "full": "6lv",
-   "fill": "6lv",
+   "fill": "4lv",
    "det": "6lv"
   },
   "zoom": 2.6,
@@ -1313,7 +1313,7 @@
   "stem": "s361946",
   "fit": {
    "full": "8lv",
-   "fill": "6lv",
+   "fill": "4lv",
    "det": "8lv"
   },
   "zoom": 2.6,
